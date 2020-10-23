@@ -1,6 +1,6 @@
 # Open Science Support
 
-This repository is a home for any support requests Western neuroscience researchers might have related to Open Science. Tristan Kuehn, Open Science Software Developer, is the primary maintainer of this repository, and will mange those requests.
+This repository is a home for any support requests Western neuroscience researchers might have related to Open Science. Tristan Kuehn, Open Science Software Developer, is the primary maintainer of this repository, and will manage those requests.
 
 I'm available to help with:
 
